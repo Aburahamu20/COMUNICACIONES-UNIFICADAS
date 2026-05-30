@@ -405,7 +405,8 @@ sudo tcpdump -i enX0 -A host 172.31.37.133 and port 5060
 
 📸 **EVIDENCIA — Captura de pantalla:**
 
-> _[ Insertar captura aquí ]_
+<img width="928" height="172" alt="Captura de pantalla 2026-05-29 224506" src="https://github.com/user-attachments/assets/38765d28-ec0a-4f6b-b60b-1c847275e069" />
+
 
 ---
 
