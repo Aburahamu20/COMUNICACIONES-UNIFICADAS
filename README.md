@@ -128,7 +128,8 @@ sudo asterisk -rvvv
 
 📸 **EVIDENCIA — Captura de pantalla:**
 
-> _[ Insertar captura aquí ]_
+<img width="928" height="198" alt="Captura de pantalla 2026-05-29 205251" src="https://github.com/user-attachments/assets/71dd9807-0e5b-40fc-ba76-e12705e3eaa8" />
+
 
 ---
 
