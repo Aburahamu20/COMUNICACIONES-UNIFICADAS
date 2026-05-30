@@ -188,7 +188,8 @@ sudo ss -tlnp | grep 506
 
 📸 **EVIDENCIA — Captura de pantalla:**
 
-> _[ Insertar captura aquí ]_
+<img width="935" height="60" alt="Captura de pantalla 2026-05-29 205846" src="https://github.com/user-attachments/assets/919a8c78-81ed-4ee0-9adf-4d96a16e3b56" />
+
 
 ---
 
