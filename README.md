@@ -115,7 +115,8 @@ Objects found: 3
 
 📸 **EVIDENCIA — Captura de pantalla:**
 
-> _[ Insertar captura aquí ]_
+<img width="1897" height="618" alt="Captura de pantalla 2026-05-29 205131" src="https://github.com/user-attachments/assets/a73b6fb7-0e21-4bbd-bfe4-7c8826f5c6c3" />
+
 
 ---
 
