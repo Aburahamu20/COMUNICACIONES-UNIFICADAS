@@ -210,7 +210,8 @@ LISTEN  0  1024  0.0.0.0:5061  0.0.0.0:*  users:(("kamailio",...))
 
 📸 **EVIDENCIA — Captura de pantalla:**
 
-> _[ Insertar captura aquí ]_
+<img width="933" height="60" alt="Captura de pantalla 2026-05-29 210003" src="https://github.com/user-attachments/assets/ec27cf9c-0a68-4c8f-a455-3f53e1e0c0c7" />
+
 
 ---
 
