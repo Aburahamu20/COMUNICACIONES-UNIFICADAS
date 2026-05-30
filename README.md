@@ -75,6 +75,7 @@
 | VM-Kamailio | Kamailio | `54.211.180.235` | `172.31.35.212` | SBC (perímetro de seguridad) |
 
 ---
+<img width="801" height="518" alt="Captura de pantalla 2026-05-29 164459" src="https://github.com/user-attachments/assets/86bd9387-15c0-4d1e-9acd-6f3d04b1143a" />
 
 ## 1. Verificación de Asterisk
 
