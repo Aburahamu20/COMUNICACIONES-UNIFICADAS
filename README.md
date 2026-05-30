@@ -237,12 +237,13 @@ ls -la /etc/kamailio/certs/
 ### 3.3 Verificación alternativa de puertos
 
 ```bash
-sudo netstat -tulpn | grep 5061
+sudo ss -tlnp | grep 5061
 ```
 
 📸 **EVIDENCIA — Captura de pantalla:**
 
-> _[ Insertar captura aquí ]_
+<img width="933" height="57" alt="Captura de pantalla 2026-05-29 210440" src="https://github.com/user-attachments/assets/2472ee6f-488a-4df5-bc1d-7cb3b9c977c3" />
+
 
 ---
 
