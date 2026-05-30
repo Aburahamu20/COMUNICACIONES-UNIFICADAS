@@ -354,7 +354,8 @@ sudo tcpdump -i any -n port 5060
 
 📸 **EVIDENCIA — Captura de pantalla:**
 
-> _[ Insertar captura aquí ]_
+<img width="932" height="117" alt="image" src="https://github.com/user-attachments/assets/4feb3d37-79d8-4473-8a2b-362bc3ad0cdd" />
+
 
 ---
 
