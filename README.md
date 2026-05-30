@@ -323,7 +323,8 @@ Se verifica el flujo: `INVITE → 100 Trying → 200 OK → ACK`
 
 📸 **EVIDENCIA — Captura de pantalla:**
 
-> _[ Insertar captura aquí ]_
+<img width="936" height="241" alt="image" src="https://github.com/user-attachments/assets/32c9628b-2526-4fbf-abc1-6bf048ee19a5" />
+
 
 ---
 
