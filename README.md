@@ -267,7 +267,7 @@ sudo ss -tlnp | grep 5061
 Desde **VM-Kamailio**, monitorear el registro del softphone:
 
 ```bash
-sudo tail -f /var/log/syslog | grep REGISTER
+sudo tcpdump -i any -n port 5060
 ```
 
 📸 **EVIDENCIA — Captura de pantalla:**
