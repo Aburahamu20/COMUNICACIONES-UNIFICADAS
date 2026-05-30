@@ -340,7 +340,8 @@ sudo tcpdump -i any -n portrange 10000-20000
 
 📸 **EVIDENCIA — Captura con tráfico RTP visible:**
 
-> _[ Insertar captura aquí ]_
+<img width="930" height="156" alt="image" src="https://github.com/user-attachments/assets/093c8986-21ae-4a7e-ac5b-d37f6851a868" />
+
 
 ---
 
