@@ -386,7 +386,8 @@ Esto demuestra:
 
 📸 **EVIDENCIA — Captura con tráfico ilegible (cifrado):**
 
-> _[ Insertar captura aquí ]_
+<img width="928" height="457" alt="image" src="https://github.com/user-attachments/assets/8402a8b4-a915-423d-8d71-cc3368b4b3e4" />
+
 
 ---
 
