@@ -71,8 +71,8 @@
 
 | VM | Software | IP Pública | IP Privada | Rol |
 |:---|:---:|:---:|:---:|:---|
-| VM-Asterisk | Asterisk | `54.205.26.179` | `` | PBX (central telefónica) |
-| VM-Kamailio | Kamailio | `3.82.14.233` | `172.31.35.212` | SBC (perímetro de seguridad) |
+| VM-Asterisk | Asterisk | `54.205.26.179` | `172.31.37.133` | PBX (central telefónica) |
+| VM-Kamailio | Kamailio | `3.82.14.233`   | `172.31.35.212` | SBC (perímetro de seguridad) |
 
 ---
 
