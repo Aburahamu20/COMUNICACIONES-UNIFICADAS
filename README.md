@@ -52,7 +52,7 @@
                    ▼
 ┌─────────────────────────────────────────┐
 │       VM-Kamailio — SBC                 │
-│   IP Pública:  54.211.180.235           │
+│   IP Pública:  3.82.14.233              │
 │   IP Privada:  172.31.35.212            │
 │   Rol: Perímetro de seguridad           │
 └──────────────────┬──────────────────────┘
@@ -61,7 +61,7 @@
                    ▼
 ┌─────────────────────────────────────────┐
 │       VM-Asterisk — PBX                 │
-│   IP Pública:  54.162.73.205            │
+│   IP Pública:  54.205.26.179            │
 │   IP Privada:  172.31.37.133            │
 │   Rol: Central telefónica               │
 └─────────────────────────────────────────┘
@@ -71,14 +71,14 @@
 
 | VM | Software | IP Pública | IP Privada | Rol |
 |:---|:---:|:---:|:---:|:---|
-| VM-Asterisk | Asterisk | `54.162.73.205` | `172.31.37.133` | PBX (central telefónica) |
-| VM-Kamailio | Kamailio | `54.211.180.235` | `172.31.35.212` | SBC (perímetro de seguridad) |
+| VM-Asterisk | Asterisk | `54.205.26.179` | `` | PBX (central telefónica) |
+| VM-Kamailio | Kamailio | `3.82.14.233` | `172.31.35.212` | SBC (perímetro de seguridad) |
 
 ---
 
 ## 1. Verificación de Asterisk
 
-> Se valida que el servicio Asterisk esté activo y funcionando correctamente en **VM-Asterisk** (`54.162.73.205`).
+> Se valida que el servicio Asterisk esté activo y funcionando correctamente en **VM-Asterisk** (`54.205.26.179`).
 
 ### 1.1 Estado del servicio Asterisk
 
@@ -132,7 +132,7 @@ sudo asterisk -rvvv
 
 ## 2. Verificación de Kamailio
 
-> Se valida que Kamailio (SBC) esté corriendo sin errores en **VM-Kamailio** (`54.211.180.235`).
+> Se valida que Kamailio (SBC) esté corriendo sin errores en **VM-Kamailio** (`3.82.14.233`).
 
 ### 2.1 Estado del servicio Kamailio
 
@@ -245,9 +245,9 @@ sudo netstat -tulpn | grep 5061
 
 | Campo en MicroSIP | Valor |
 |:---|:---|
-| Servidor SIP | `54.211.180.235:5061` |
+| Servidor SIP | `3.82.14.233:5061` |
 | Nombre de usuario | `1001` |
-| Dominio | `54.211.180.235` |
+| Dominio | `3.82.14.2335` |
 | Contraseña | `pass1001` |
 | Cifrado de medios | `Obligatorio SRTP (RTP/SAVP)` |
 | Transporte | `TLS` |
@@ -424,8 +424,8 @@ El tráfico de señalización SIP desde Internet viaja completamente cifrado, **
 
 | Componente | IP Pública | IP Privada | Usuario | Contraseña |
 |:---|:---:|:---:|:---:|:---:|
-| VM-Asterisk (PBX) | `54.162.73.205` | `172.31.37.133` | — | — |
-| VM-Kamailio (SBC) | `54.211.180.235` | `172.31.35.212` | — | — |
+| VM-Asterisk (PBX) | `54.205.26.179` | `172.31.37.133` | — | — |
+| VM-Kamailio (SBC) | `3.82.14.233`   | `172.31.35.212` | — | — |
 | Extensión 1001 | — | — | `1001` | `pass1001` |
 | Extensión 1002 | — | — | `1002` | `pass1002` |
 | Extensión 1003 | — | — | `1003` | `pass1003` |
