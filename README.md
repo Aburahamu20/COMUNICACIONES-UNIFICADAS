@@ -301,14 +301,15 @@ sudo asterisk -rx "pjsip show contacts"
 Desde **VM-Asterisk**, monitorear en tiempo real mientras se realiza la llamada:
 
 ```bash
-sudo tail -f /var/log/syslog
+sudo tcpdump -i any -n port 5060
 ```
 
 > 📞 Marcar **9999** en MicroSIP y hacer clic en **Llamar**. Se debe escuchar la propia voz.
 
 📸 **EVIDENCIA — Captura de pantalla de los logs:**
 
-> _[ Insertar captura aquí ]_
+<img width="932" height="139" alt="image" src="https://github.com/user-attachments/assets/5c6ad6cf-03aa-44a9-af1b-2f93621ab68a" />
+
 
 ---
 
