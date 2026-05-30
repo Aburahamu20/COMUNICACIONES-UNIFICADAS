@@ -287,7 +287,8 @@ sudo asterisk -rx "pjsip show contacts"
 
 📸 **EVIDENCIA — Captura de MicroSIP mostrando "En línea" + salida del comando:**
 
-> _[ Insertar captura aquí ]_
+<img width="932" height="168" alt="image" src="https://github.com/user-attachments/assets/7d9e1345-ba6f-4e1b-b006-12585c09b88e" />
+
 
 ---
 
