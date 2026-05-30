@@ -152,7 +152,8 @@ sudo systemctl status kamailio
 
 📸 **EVIDENCIA — Captura de pantalla:**
 
-> _[ Insertar captura aquí ]_
+<img width="935" height="243" alt="Captura de pantalla 2026-05-29 205626" src="https://github.com/user-attachments/assets/4940f606-12c1-4217-96a3-7cd26ea1dcea" />
+
 
 ---
 
