@@ -272,7 +272,8 @@ sudo tail -f /var/log/syslog | grep REGISTER
 
 📸 **EVIDENCIA — Captura de pantalla:**
 
-> _[ Insertar captura aquí ]_
+<img width="923" height="335" alt="image" src="https://github.com/user-attachments/assets/98a98747-bd6c-4d8c-ab6c-5b0b953a69b4" />
+
 
 ---
 
