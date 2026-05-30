@@ -1,4 +1,3 @@
-# COMUNICACIONES-UNIFICADAS
 <div align="center">
 
 # Informe EP2 — Comunicaciones Unificadas
