@@ -229,7 +229,8 @@ ls -la /etc/kamailio/certs/
 
 📸 **EVIDENCIA — Captura de pantalla:**
 
-> _[ Insertar captura aquí ]_
+<img width="941" height="119" alt="Captura de pantalla 2026-05-29 210132" src="https://github.com/user-attachments/assets/d27c80ea-2711-4586-beb2-65336c95afce" />
+
 
 ---
 
