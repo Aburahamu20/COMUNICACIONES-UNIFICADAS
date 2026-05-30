@@ -175,7 +175,8 @@ Listening on
 
 📸 **EVIDENCIA — Captura de pantalla:**
 
-> _[ Insertar captura aquí ]_
+<img width="937" height="182" alt="Captura de pantalla 2026-05-29 205733" src="https://github.com/user-attachments/assets/bcd90c9f-c8c6-466a-9876-9336a0ac4f3b" />
+
 
 ---
 
