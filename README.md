@@ -94,7 +94,8 @@ sudo systemctl status asterisk
 
 📸 **EVIDENCIA — Captura de pantalla:**
 
-> _[ Insertar captura aquí ]_
+<img width="938" height="333" alt="Captura de pantalla 2026-05-29 204956" src="https://github.com/user-attachments/assets/46aa9837-7ba7-4c51-b8b8-ceddda8ffc59" />
+
 
 ---
 
